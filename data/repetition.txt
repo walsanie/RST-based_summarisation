@@ -1,0 +1,4 @@
+#Relation,RepetitionType
+تفصيل,ManyRepetition
+عطف,FewRepetition
+

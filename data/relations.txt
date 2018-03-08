@@ -1,0 +1,13 @@
+#Relation,Type,Status
+توكيد,Binary,Hypotactic
+تفصيل,Binary,Hypotactic
+تفسير,Binary,Hypotactic
+شرط,Binary,Hypotactic
+تعليل,Binary,Hypotactic
+استدراك,Binary,Hypotactic
+تمثيل,Complex,Hypotactic
+نتيجة,Complex,Hypotactic
+قاعدة,Complex,Hypotactic
+ترتيب,Binary,Paratactic
+عطف,Binary,Paratactic
+
