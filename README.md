@@ -5,7 +5,7 @@ This software was develop in 2005 by Waleed Alsanie to summarise Arabic texts us
 
 *Daniel Marcu (2000). The Theory and Practice of Discourse Parsing and Summarization, MIT Press.*
 
-Some of the axioms proposed by March have not been implemented though. 
+Some of the axioms proposed by Marcu have not been implemented though. 
 
 The software has not been test exhaustively. Moreover, it has not been documented in great details.  
 
