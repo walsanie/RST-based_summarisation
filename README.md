@@ -11,5 +11,5 @@ The software has not been test exhaustively. Moreover, it has not been documente
 
 The software is distributed under the AGPL license.
 
-** Waleed Alsanie **
+**Waleed Alsanie**
 w.sanie [[at]] gmail [[dot]] com
