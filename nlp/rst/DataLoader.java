@@ -122,7 +122,7 @@ public class DataLoader {
         try{
             while ((line = actfile.readLine()) != null) 
                 // If a line starts with '#' ignore it as it is a comment 
-                if (! line.startsWith("#") && ! line.matches("\\s*")) {
+                if (! line.trim().startsWith("#") && ! line.matches("\\s*")) {
                     String[] marker = line.split(",");
                     CuePhrase cue = new CuePhrase ();                                                     
                     cue.setRegex(marker[0].trim());
@@ -178,7 +178,7 @@ public class DataLoader {
         try{
             while ((line = relFile.readLine()) != null) 
                 // If a line starts with '#' ignore it as it is a comment
-                if (! line.startsWith("#") && ! line.matches("\\s*")) {
+                if (! line.trim().startsWith("#") && ! line.matches("\\s*")) {
                     String[] marker = line.split(",");
                     if (marker[1].trim().matches("[Bb][Ii][Nn][Aa][Rr][Yy]"))
                         binaryRel.add(marker[0].trim());
@@ -229,7 +229,7 @@ public class DataLoader {
         try{
             while ((line = rFile.readLine()) != null) 
                 // If a line starts with '#' ignore it as it is a comment
-                if (! line.startsWith("#") && ! line.matches("\\s*")) {
+                if (! line.trim().startsWith("#") && ! line.matches("\\s*")) {
                     String[] marker = line.split(",");
                     if (marker[1].trim().matches("[Mm][Aa][Nn][Yy][Rr][Ee][Pp][Ee][Tt][Ii][Tt][Ii][Oo][Nn]"))
                         manyRepRel = marker[0].trim();
