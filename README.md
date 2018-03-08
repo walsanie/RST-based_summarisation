@@ -1,7 +1,7 @@
 # RST-based_summarisation
 ## Arabic Text Summarisation Using Rheotircal Structure Theory
 
-This software was develop in 2005 by Waleed Alsanie to summarise Arabic text using Rhetorical Structure Theory (RST). It is a rule-based extractive summarisation technique that was proposed originally by Daniel Marcu:
+This software was develop in 2005 by Waleed Alsanie to summarise Arabic texts using Rhetorical Structure Theory (RST). It is a rule-based extractive summarisation technique that was proposed originally by Daniel Marcu:
 
 *Daniel Marcu (2000). The Theory and Practice of Discourse Parsing and Summarization, MIT Press.*
 
