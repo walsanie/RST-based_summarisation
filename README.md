@@ -10,3 +10,6 @@ Some of the axioms proposed by March have not been implemented though.
 The software has not been test exhaustively. Moreover, it has not been documented in a greate details.  
 
 The software is distributed under the AGPL license.
+
+** Waleed Alsanie
+w.sanie@gmail.com
