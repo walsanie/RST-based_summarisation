@@ -52,7 +52,7 @@ public class RSTreePainter extends JFrame{
         drawingArea.setBackground(Color.WHITE);     
         this.setSize(width, height);
         getContentPane().add (scroller);     // add the panel -in the scroller.
-        // JFrame.show has been depreciated since Java 1.5
+        // JFrame.show has been deprecated since Java 1.5
         // this.show();
         // So we will use JFrame.setVisible(true) instead
         this.setVisible(true);
