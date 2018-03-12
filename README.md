@@ -7,7 +7,7 @@ This software was develop in 2005 by Waleed Alsanie to summarise Arabic texts us
 
 Some of the axioms proposed by Marcu have not been implemented though. 
 
-The software has not been tested exhaustively. Moreover, it has not been documented in great details.  
+The software has not been tested exhaustively. It has not been documented in great details as well.  
 
 The software is distributed under the GPL license.
 
