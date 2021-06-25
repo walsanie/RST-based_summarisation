@@ -13,4 +13,3 @@ The software is distributed under the GPL license.
 
 
 **Waleed Alsanie**
-w.sanie [[at]] gmail [[dot]] com
